@@ -10,5 +10,11 @@ public class Regression {
 	{
 		System.out.println("subu");
 	}
+	
+	@Test
+	public void get1()
+	{
+		System.out.println("manu");
+	}
 
 }
